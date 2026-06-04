@@ -1,4 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ayaan 👋
+
+🚀 Coder | Learning Open Source | Building cool projects
+
+## 🎯 Current Goals
+- Contribute to Open Source
+- Learn Linux & Git
+- Build impactful projects
+- Prepare for GSoC
+
+## 🚀 Featured Project
+
+### Design Aura
+🌐 Live Demo: https://ayaan-20-11.github.io/design-aura/
+
+A modern website showcasing creative design solutions and UI/UX concepts.
+
+## 💻 Tech Stack
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+
+## 📚 Currently Learning
+- Open Source Contribution
+- Linux
+- Git & GitHub
+- Web Development
+
+## 🎯 2026 Goals
+- Build 10+ projects
+- Make my first Open Source contribution
+- Participate in Hackathons
+- Grow my GitHub profile
+
+---
+
+⭐ Always learning, always building.## Hi there 👋
 
 <!--
 **Ayaan-20-11/Ayaan-20-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
