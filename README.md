@@ -36,7 +36,7 @@ A modern website showcasing creative design solutions and UI/UX concepts.
 
 ---
 
-⭐ Always learning, always building.## Hi there 👋
+⭐ Always learning, always building.
 
 <!--
 **Ayaan-20-11/Ayaan-20-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
