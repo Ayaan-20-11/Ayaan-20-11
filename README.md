@@ -27,19 +27,19 @@ Computer Science Student • Open Source Learner • Building Real-World Project
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ayaan-kapoor-/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="mailto:ayaankapoor2011@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://github.com/Ayaan-20-11" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 </p>
 
