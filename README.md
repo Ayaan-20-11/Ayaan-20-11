@@ -58,8 +58,8 @@ public:
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:ayaankapoor2011@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayaankapoor2011@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 <a href="https://github.com/Ayaan-20-11" target="_blank">
