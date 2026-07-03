@@ -17,36 +17,62 @@ Computer Science Student • Open Source Learner • Building Real-World Project
 
 ## 👨‍💻 About Me
 
-- 🎓 First-year Computer Science Student
-- 🌱 Currently learning **DSA, Git, GitHub, Linux & Web Development**
-- 🚀 Interested in Open Source and building impactful projects
-- 💡 I enjoy solving problems and learning new technologies
-- ✈️ Aviation enthusiast who loves technology and innovation
+```cpp
+class AyaanKapoor {
 
+public:
+
+    string role = "Computer Science Student";
+
+    vector<string> currentlyLearning = {
+        "DSA",
+        "Git & GitHub",
+        "Linux",
+        "Web Development",
+        "Open Source"
+    };
+
+    vector<string> interests = {
+        "Software Development",
+        "Problem Solving",
+        "Building Projects"
+    };
+
+    string funFact = "I believe consistency beats talent.";
+};
+```
 ---
 
-## 🌐 Connect with Me
+## 🚀 Currently Working On
+
+- 💻 Building real-world development projects
+- 🌱 Learning DSA and strengthening problem-solving
+- 🤝 Exploring Open Source contributions
+- ⚡ Improving my GitHub profile
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ayaan-kapoor-/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="mailto:ayaankapoor2011@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="https://github.com/Ayaan-20-11" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 </p>
 
+<p align="center">
+💬 Open to collaborations, hackathons, and Open Source 🚀
+</p>
 ---
 
-## 💻 Tech Stack
-
+# 💻 Tech Stack
 <p align="center">
 
 <p align="center">
@@ -66,7 +92,7 @@ Computer Science Student • Open Source Learner • Building Real-World Project
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Current Goals
 
 - 🚀 Build 10+ quality projects
 - 🌍 Make my first Open Source contribution
@@ -117,5 +143,5 @@ Computer Science Student • Open Source Learner • Building Real-World Project
 
 <p align="center">
 Thanks for visiting! ⭐
-If you like my work, consider starring my repositories.
+Stay curious. Keep building. Let your work speak for itself.
 </p>
