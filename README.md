@@ -49,22 +49,8 @@ Computer Science Student • Open Source Learner • Building Real-World Project
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,git,github,vscode,linux" />
 </p>
 
 ---
