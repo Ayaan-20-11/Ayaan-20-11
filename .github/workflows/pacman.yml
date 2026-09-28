@@ -2,8 +2,8 @@ name: Generate Pac-Man contribution graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # twice a day
-  workflow_dispatch: # run manually from the Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -13,6 +13,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -26,7 +27,7 @@ jobs:
           GH_USERNAME: ${{ github.repository_owner }}
         run: node src/generate.mjs --out dist
 
-            - name: Publish to output branch
+      - name: Publish to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
