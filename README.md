@@ -25,11 +25,12 @@ public:
     string role = "Computer Science Student";
 
     vector<string> currentlyLearning = {
-        "DSA",
-        "Git & GitHub",
-        "Linux",
+        "Data Structures & Algorithms",
+        "Advanced Git & GitHub workflows",
+        "Linux & CLI",
+        "JavaScript",
         "Web Development",
-        "Open Source"
+        "Open Source Engineering"
     };
 
     vector<string> interests = {
@@ -81,21 +82,19 @@ public:
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Currently Working On
 
-- 🌱 Data Structures & Algorithms
-- 🌱 Open Source Contribution
-- 🌱 Git & GitHub
-- 🌱 Linux
-- 🌱 JavaScript
-- 🌱 Responsive Web Development
+- 💻 Building real-world software projects
+- 🧠 Strengthening DSA and problem-solving
+- 🤝 Contributing to Open Source projects
+- 🚀 Exploring GSoC-ready organizations and projects
 
 ---
 
 # 🎯 Current Goals
 
 - 🚀 Build 10+ quality projects
-- 🌍 Make my first Open Source contribution
+- 🌍 Build a strong Open Source contribution track record
 - 💻 Participate in Hackathons
 - ⭐ Improve my GitHub profile
 - 📈 Become consistent with coding
@@ -117,11 +116,13 @@ public:
 
 ## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayaan-20-11/Ayaan-20-11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayaan-20-11/Ayaan-20-11/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ayaan-20-11/Ayaan-20-11/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ayaan-20-11/Ayaan-20-11/output/pacman.svg"
+    alt="Pac-Man Contribution Graph"
+    width="100%"
+  />
+</p>
 ---
 
 
